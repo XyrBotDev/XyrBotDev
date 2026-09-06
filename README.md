@@ -1,21 +1,5 @@
+# ⚡ SKY_XYR
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=900&color=00FF88&center=true&vCenter=true&width=700&lines=🤖+SKY_XYR;BUILDING...+85%25;BUILDING...+90%25;BUILDING...+95%25;BUILDING...+99%25;ERROR+FOUND+%E2%9A%A0%EF%B8%8F;REBUILDING...+85%25;BUILDING...+99%25;ERROR+FOUND+%E2%9A%A0%EF%B8%8F" alt="Live Developer Status">
-</p><p align="center">
-  <a href="https://t.me/SKY_XYR">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-</p>🤖 SKY_XYR
-
-«Telegram Bot Developer • Automation • APIs»
-
-⚡ Developer Mode
-
-BUILD → TEST → DEBUG → DEPLOY
-
-🧠 Skills
-
-- 🤖 Telegram Bots
-- 🐍 Python
-- ⚙️ Automation
-- 🔌 APIs
-- 🛠️ Bot Development
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=00FF88&center=true&vCenter=true&width=850&height=400&lines=%5B10%3A42%3A01%5D+BUILDING...+85%25;%5B10%3A42%3A03%5D+Resolving+dependencies...;%5B10%3A42%3A06%5D+Loading+bot+modules...;%5B10%3A42%3A09%5D+Initializing+handlers...;%5B10%3A42%3A13%5D+Checking+configuration...;%5B10%3A42%3A17%5D+Compiling+command+handlers...;%5B10%3A42%3A22%5D+Running+unit+tests...;%5B10%3A42%3A27%5D+Testing+API+connection...;%5B10%3A42%3A33%5D+Checking+message+handlers...;%5B10%3A42%3A39%5D+BUILDING...+90%25;%5B10%3A42%3A46%5D+Optimizing+bot+processes...;%5B10%3A42%3A54%5D+Running+command+tests...;%5B10%3A43%3A02%5D+Validating+responses...;%5B10%3A43%3A11%5D+Checking+runtime+environment...;%5B10%3A43%3A20%5D+BUILDING...+95%25;%5B10%3A43%3A30%5D+Finalizing+build...;%5B10%3A43%3A41%5D+Performing+final+checks...;%5B10%3A43%3A53%5D+BUILDING...+99%25;%5B10%3A44%3A05%5D+ERROR+FOUND+%5B!%5D" alt="Build Logs">
+</p>
