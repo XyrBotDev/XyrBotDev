@@ -1,0 +1,128 @@
+<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="560" rx="14" fill="#050505"/>
+
+  <rect width="900" height="44" rx="14" fill="#151515"/>
+  <circle cx="24" cy="22" r="7" fill="#ff3030"/>
+  <circle cx="46" cy="22" r="7" fill="#ff3030"/>
+  <circle cx="68" cy="22" r="7" fill="#ff3030"/>
+
+  <text x="90" y="28"
+        fill="#ff3030"
+        font-family="monospace"
+        font-size="17"
+        font-weight="bold">
+    BUILD TERMINAL
+  </text>
+
+  <g fill="#ff3030"
+     font-family="monospace"
+     font-size="18"
+     font-weight="bold">
+
+    <text x="25" y="82" opacity="0">
+      [10:42:01] BUILDING... 85%
+      <animate attributeName="opacity"
+               begin="0s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="114" opacity="0">
+      [10:42:04] Loading bot modules...
+      <animate attributeName="opacity"
+               begin="2.5s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="146" opacity="0">
+      [10:42:08] Resolving dependencies...
+      <animate attributeName="opacity"
+               begin="5s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="178" opacity="0">
+      [10:42:13] Initializing handlers...
+      <animate attributeName="opacity"
+               begin="7.5s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="210" opacity="0">
+      [10:42:18] Checking configuration...
+      <animate attributeName="opacity"
+               begin="10s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="242" opacity="0">
+      [10:42:24] Compiling command handlers...
+      <animate attributeName="opacity"
+               begin="12.5s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="274" opacity="0">
+      [10:42:31] Running command tests...
+      <animate attributeName="opacity"
+               begin="15s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="306" opacity="0">
+      [10:42:39] BUILDING... 90%
+      <animate attributeName="opacity"
+               begin="17.5s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="338" opacity="0">
+      [10:42:47] Testing API connection...
+      <animate attributeName="opacity"
+               begin="20s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="370" opacity="0">
+      [10:42:56] Validating responses...
+      <animate attributeName="opacity"
+               begin="22.5s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="402" opacity="0">
+      [10:43:05] Optimizing bot processes...
+      <animate attributeName="opacity"
+               begin="25s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="434" opacity="0">
+      [10:43:15] BUILDING... 95%
+      <animate attributeName="opacity"
+               begin="27.5s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="466" opacity="0">
+      [10:43:27] Finalizing build...
+      <animate attributeName="opacity"
+               begin="30s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="498" opacity="0">
+      [10:43:40] BUILDING... 99%
+      <animate attributeName="opacity"
+               begin="32.5s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+    <text x="25" y="530" opacity="0">
+      [10:43:47] ERROR FOUND [!]
+      <animate attributeName="opacity"
+               begin="35s" dur="0.3s"
+               from="0" to="1" fill="freeze"/>
+    </text>
+
+  </g>
+</svg>
